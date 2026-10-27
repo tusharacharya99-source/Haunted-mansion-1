@@ -342,7 +342,7 @@ footer{
   It may be your Google Apps Script web app URL, or a relative path
   such as "game/index.html" if the game is hosted with this website.
 */
-const GAME_URL = "PASTE_YOUR_HAUNTED_MANSION_GAME_URL_HERE";
+https://script.google.com/macros/s/AKfycbyFnb8aLiG4yr2E59EuVbZ6-DRwIhhxRw90DWYUZs8i/dev
 
 function startGame(){
   if(!GAME_URL ||
