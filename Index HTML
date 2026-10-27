@@ -88,7 +88,7 @@ footer{text-align:center;padding:25px;background:#101827;color:#9ba9bc}
 <footer>🏚️ Haunted Mansion Adventure · Let the adventure begin!</footer>
 
 <script>
-const GAME_URL = "PASTE_YOUR_PUBLISHED_GOOGLE_APPS_SCRIPT_EXEC_URL_HERE";
+const GAME_URL = https://script.google.com/macros/s/AKfycbyFnb8aLiG4yr2E59EuVbZ6-DRwIhhxRw90DWYUZs8i/dev
 
 function playGame(){
   if(!GAME_URL.startsWith("https://")){
